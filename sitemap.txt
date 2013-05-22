@@ -12,4 +12,3 @@ http://git.xdty.org/sitemap.txt
 http://git.xdty.org/tags.html
 
 http://git.xdty.org/2013/05/22/
-http://git.xdty.org/lessons/2011/12/29/jekyll-introduction
