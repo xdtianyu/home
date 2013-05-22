@@ -5,10 +5,18 @@
         <description>SkyNet - tianyu</description>
         <link>http://git.xdty.org</link>
         <link>http://git.xdty.org</link>
-        <lastBuildDate>2013-05-22T15:59:26+08:00</lastBuildDate>
-        <pubDate>2013-05-22T15:59:26+08:00</pubDate>
+        <lastBuildDate>2013-05-22T17:56:57+08:00</lastBuildDate>
+        <pubDate>2013-05-22T17:56:57+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>测试文章</title>
+                <description></description>
+                <link>http://git.xdty.org/2013/05/22/</link>
+                <guid>http://git.xdty.org/2013/05/</guid>
+                <pubDate>2013-05-22T00:00:00+08:00</pubDate>
+        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
